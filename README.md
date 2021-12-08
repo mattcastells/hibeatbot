@@ -20,3 +20,5 @@ La finalidad del proyecto fue:
 Para poder ejecutar el codigo se requiere la utilizacion de un Token brindado por la plataforma de desarrollo de Discord (https://discord.com/developers/).
 Se utilizó Replit para el hosteo del mismo durante el desarrollo (https://replit.com/~).
 Puede ser hosteado en Heroku.
+
+// Realizado para uso personal y como aprendizaje.
