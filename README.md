@@ -1,4 +1,4 @@
-# chipiBot
+# hiBeat
 Bot para discord realizado con un tutorial code-along. El mismo cuenta con las funciones básicas (reproducir, detener, resumir) para reproducir musica mediante la utilización de urls traidas de Youtube.
 
 Lista de comandos: 
